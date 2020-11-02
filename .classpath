@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Users/cheye/Downloads/spigot-api-1.16.3-R0.1-20200914.094925-6.jar"/>
+	<classpathentry kind="lib" path="D:/Users/cheye/Downloads/worldguard-bukkit-7.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/Users/cheye/Downloads/Residence4.9.1.9.jar"/>
+	<classpathentry kind="lib" path="D:/Users/cheye/Downloads/Towny-0.96.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Users/cheye/Downloads/Factions.jar"/>
+	<classpathentry kind="lib" path="D:/Users/cheye/Downloads/MassiveCore.jar"/>
+	<classpathentry kind="lib" path="D:/Users/cheye/Downloads/SimpleClans.jar"/>
+	<classpathentry kind="lib" path="D:/Users/cheye/Downloads/Vault (1).jar"/>
+	<classpathentry kind="lib" path="D:/Users/cheye/Downloads/askyblock.jar"/>
+	<classpathentry kind="lib" path="D:/Users/cheye/Downloads/PlotSquared-Bukkit-4.4.495.jar"/>
+	<classpathentry kind="lib" path="D:/Users/cheye/Downloads/PlotSquared-Bukkit-4.494.jar"/>
+	<classpathentry kind="lib" path="D:/Users/cheye/Downloads/Plot2Dynmap-5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Users/cheye/Downloads/Dynmap-3.1-beta-3a-spigot.jar"/>
+	<classpathentry kind="lib" path="D:/Users/cheye/Downloads/GriefPrevention.jar"/>
+	<classpathentry kind="lib" path="D:/Users/cheye/Downloads/ProtocolLib (1).jar"/>
+	<classpathentry kind="lib" path="D:/Users/cheye/Downloads/gson-2.8.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
